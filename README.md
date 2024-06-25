@@ -1,6 +1,6 @@
 # geofenced_attendance_system
 
-A new Flutter project.
+A new Flutter project
 
 ## Getting Started
 
