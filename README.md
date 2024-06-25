@@ -1,4 +1,4 @@
-# geofenced_attendance_system
+# Geofenced_Attendance_System
 
 A new Flutter project
 
