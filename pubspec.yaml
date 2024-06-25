@@ -1,0 +1,40 @@
+name: geofenced_attendance_system
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  dot_navigation_bar: ^1.0.1+3
+  lottie: ^1.4.3
+  auto_size_text: ^3.0.0
+  firebase_core: ^2.1.1
+  cloud_firestore: ^4.0.4
+  geolocator: ^9.0.2
+  d_chart: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - images/
+     - assets/
+
+  fonts:
+    - family: Mulish
+      fonts:
+        - asset: fonts/Mulish-Regular.ttf
+        - asset: fonts/Mulish-Bold.ttf
+          weight: 800
+        - asset: fonts/Mulish-SemiBold.ttf
+          weight: 400

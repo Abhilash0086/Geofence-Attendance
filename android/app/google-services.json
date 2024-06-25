@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "349062106097",
+    "project_id": "macro-dreamer-348416",
+    "storage_bucket": "macro-dreamer-348416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349062106097:android:1835e7f83e0970410dd250",
+        "android_client_info": {
+          "package_name": "com.example.geofenced_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349062106097-nje1u1afhah6faa49snc4qqsqeaku8hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ja244Hufxkdx-rDd3PAKHz_xuqP6JEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349062106097-nje1u1afhah6faa49snc4qqsqeaku8hn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349062106097-om4227gsokropmiph2n5p0hop328g68d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.geofencedAttendanceSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
